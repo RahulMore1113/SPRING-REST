@@ -1,0 +1,20 @@
+{
+	"id": 10,
+	"firstName": "Rahul",
+	"lastName": "More",
+	"active": true,
+	"address": {
+		"street": "7/12",
+		"city": "Pune",
+		"state": "Maharashtra",
+		"zip": "560026",
+		"country": "India"
+	},
+	"languages": [
+		"Java",
+		"C#",
+		"Python",
+		"JavaScript"
+	],
+	"class": "Full Stack"
+}
